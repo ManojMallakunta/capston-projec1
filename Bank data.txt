@@ -1,0 +1,270 @@
+                                                                        
+
+
+
+                                                BANK DATA
+
+
+
+1Q) How many students are there in this data set what was the loan status ?
+ans:
+
+     *Age              :out of 4512 fields there are 84 people with the age of 19 to 42 and 3 people are with the age of 20
+     *Job              :they are students
+     *Marital          :marital status 74 people single 10 people marriede
+     *Education        :education details
+                             primary (2)
+
+                             secondary(47)
+                              
+                             unknown (18)
+                             
+                             tertiary (19)
+     *Default          :so by defualt they didnt take any kind of loan.
+                        but only one person has a  default loan
+                        And a housing loan
+note:1 to 18 contacts performed in campaign 
+
+2Q)How many unemployed clients are there?
+ans:
+     *Age              :out of 4512 fields there are 128 people with the age of 24 to 60
+     *Job              :unemployed
+     *Marital          :marital status 
+
+                          Divorced(22)
+                          
+                          Married(75)
+                          
+                          single(31)
+
+
+     *Education        :education details
+                             primary (25)
+
+                             secondary(68)
+                              
+                             unknown (2)
+
+                             tertiary(32)
+
+
+     *Loan             :3 people have default loan
+                        58 people have housing loan
+                        9 people have personal loan
+
+note:1 to 31 contacts performed in campaign
+
+
+
+3Q)How many blue-collar clients are there?
+ans:
+     *Age              :out of 4512 fields there are 946 people with the age of 24 to 59
+     *Job              :blue-collar
+     *Marital          :marital status 
+
+                          Divorced(79)
+                          
+                          Married(693)
+                          
+                          single(174)
+
+
+     *Education        :education details
+                             primary (369)
+
+                             secondary(524)
+                              
+                             unknown (41)
+
+                             tertiary(12)
+
+
+     *Loan             :14 people have default loan
+                        694 people have housing loan
+                        156 people have personal loan
+note:1 to 50 contacts performed in campaign 
+
+4Q)How many unknown job clients are there?
+ans:
+     *Age              :out of 4512 fields there are 38 people with the age of 27 to 71
+     *Job              :unknown
+     *Marital          :marital status 
+
+                          Divorced(1)
+                          
+                          Married(30)
+                          
+                          single(7)
+
+
+     *Education        :education details
+                             primary (7)
+
+                             secondary(8)
+                              
+                             unknown (15)
+
+                             tertiary(8)
+
+
+     *Loan             :no one have default loan
+                        1  person have housing loan
+                        1  person have personal loan
+note:1 to 9 contacts performed in campaign
+
+5Q)How many Retired clients are there?
+age:
+     *Age              :out of 4512 fields there are 230 people with the age of 24 to 87
+     *Job              :Retired
+     *Marital          :marital status 
+
+                          Divorced(43)
+                          
+                          Married(176)
+                          
+                          single(11)
+
+
+     *Education        :education details
+                             primary (80)
+
+                             secondary(105)
+                              
+                             unknown (14)
+
+                             tertiary(31)
+
+
+     *Loan             :3 persons have default loan
+                        50 persons have housing loan
+                        30 persons have personal loan
+
+note:1 to 23  contacts performed in campaign
+
+
+6Q)How many  clients are  doing jobs ?
+ans:
+     *Age              :out of 4512 fields there are 3095 people with the age of 21 to 80
+     *Job              :services,management,self-employed,technician,admin,housemaid,enterprenure
+     *Marital          :marital status 
+
+                          Divorced(383)
+                          
+                          Married(1813)
+                          
+                          single(899)
+
+
+     *Education        :education details
+                             primary (194)
+
+                             secondary(1554)
+                              
+                             unknown (99)
+
+
+                             tertiary(1248)
+
+
+     *Loan             : 55 persons have default loan
+                        1735 persons have housing loan
+                        488 persons have personal loan
+
+note:1 to 32 contacts performed in campaign
+
+
+
+7Q) who is the highest Campaign person in this data ?
+  
+
+ans:a blue-collar age 35 whoes marital status was married has highest campaign 50 times they contacted this client during campaign
+
+
+note: this client dosent have any kind of deafult loan but had both the housing and personal loan 
+
+
+
+8Q)who is maintaining highest balance?
+
+ans:a retired client whoes maritial status was married has highes balance of 71188 in his account
+no default loan,housing loan,personal loan 
+contact: cellular
+last contacted: 9 th oct
+passed days : after last contact -1 day happend
+ 
+Note: client dosent have any term deposit and 1 campaign has done
+
+
+
+9Q) who had highest negitive balance ?
+
+ans:a self-employed client whoes maritial status was married has highes negative balance of -3313 in his account
+had default loan,housing loan,personal loan 
+
+contact: unknown
+
+last contacted: 9 th may
+passed days : after last contact -1 day happend
+ 
+Note: client dosent have any term deposit and 1 campaign has done
+
+
+
+10Q)How many p-outcomes failed ?
+
+ans:490 previous marketing campaign has got failure out of 4512 clients
+
+note:in the month of may 177 failuers occured amoung 490 thats the highest one
+
+
+
+11Q)How many p-outcomes successed ?
+
+ans:129 previous marketing campaign has got success out of 4512 clients
+
+note:in the month of may 20 success occured amoung 129 thats the highest one
+
+
+
+12Q)How many clients dint contact bank for one year and above ?
+
+ans:among 4512 accounts 66 clients dint contact bank more then one year
+
+note:18 clients among 66 clients subcribed for a term deposit
+
+
+
+13Q)How many clients subcribed for a term deposit ?
+
+ans:521 clients among 4512 clients subcribed for a term deposit.
+
+note:83 previous marketing campaign  got success.
+
+
+
+14Q)Total how many clients have Default loan?
+ 
+ans:outof 4521 clients 76 clients have default loans 
+
+note:they belongs to all kind of fields 
+
+
+
+15Q)Total how many clients have both Housing loan and personal loan ?
+
+ans:outof 4521 clients 406 clients have both loans 
+
+note:outof 4521 clients 2560 people are having housing loan and 691 people are having personal loan
+
+
+
+
+
+
+
+
+
+
+
+
+
